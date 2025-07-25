@@ -21,9 +21,13 @@ Install dependencies
 
   npm install react-material-ui-carousel --save --legacy-peer-deps
 ```
-
+And now in another terminal
 Start the server
+```bash
+   cd api
+   npm start
 
+Now in main terminal /ecommerce
 ```bash
   npm start
 ```
